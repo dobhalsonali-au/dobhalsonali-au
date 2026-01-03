@@ -28,11 +28,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dobhalsonali-au&theme=default&hide_border=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=dobhalsonali-au&show_icons=true&theme=github_dark&cache_seconds=86400)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dobhalsonali-au&theme=default&hide_border=false)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=dobhalsonali-au&theme=github_dark&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dobhalsonali-au&theme=default&hide_border=false&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dobhalsonali-au&layout=compact&theme=github_dark&cache_seconds=86400)
 
 
 ### ✍️ Random Dev Quote
