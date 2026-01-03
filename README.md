@@ -1,16 +1,37 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 Master of Information Technology graduate with 3+ years as a Senior Systems Engineer<br>👯 I’m looking to collaborate on cloud & Python projects where learning-by-building is the goal.<br>🤝 I’m looking for help with breaking into entry-level IT support, systems engineer, and cloud roles in Australia and strengthening real-world troubleshooting, system administration, and cloud fundamentals.<br>⚡ Fun fact: Immigrant in Australia balancing tech and life, one commit at a time.
 
-<!--
-**dobhalsonali-au/dobhalsonali-au** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonali-dobhal-b6b150157/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonalidobhal.aus@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🛠️ IT Support & Systems
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 🗄️ Databases
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧩 HRIS / Workforce Systems (Enterprise Experience)
+- UKG Kronos Workforce Central  
+- UKG Workforce Dimensions  
+- Telestaff  
+- Payroll, Time & Attendance, Workforce Management Systems
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dobhalsonali-au&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dobhalsonali-au&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dobhalsonali-au&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dobhalsonali-au&icon=0&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
