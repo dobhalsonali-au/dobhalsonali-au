@@ -26,10 +26,14 @@
 - Telestaff  
 - Payroll, Time & Attendance, Workforce Management Systems
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dobhalsonali-au&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dobhalsonali-au&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dobhalsonali-au&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dobhalsonali-au&theme=default&hide_border=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dobhalsonali-au&theme=default&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dobhalsonali-au&theme=default&hide_border=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
