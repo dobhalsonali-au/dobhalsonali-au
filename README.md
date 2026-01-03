@@ -26,10 +26,6 @@
 - Telestaff  
 - Payroll, Time & Attendance, Workforce Management Systems
 
-## 📈 GitHub Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dobhalsonali-au&theme=github-dark)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
